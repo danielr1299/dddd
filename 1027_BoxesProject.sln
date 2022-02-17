@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logic", "1027_BoxesProject\Logic.csproj", "{87B02213-4859-4011-BB24-57720B8AA3A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStuctures", "DataStuctures\DataStuctures.csproj", "{60FE0C7C-AE0D-4BEC-BCF2-13B2821D3CD1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UI", "UI\UI.csproj", "{9C95FB77-BDE5-4514-9278-7E068F81D0C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87B02213-4859-4011-BB24-57720B8AA3A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87B02213-4859-4011-BB24-57720B8AA3A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87B02213-4859-4011-BB24-57720B8AA3A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87B02213-4859-4011-BB24-57720B8AA3A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60FE0C7C-AE0D-4BEC-BCF2-13B2821D3CD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60FE0C7C-AE0D-4BEC-BCF2-13B2821D3CD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60FE0C7C-AE0D-4BEC-BCF2-13B2821D3CD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60FE0C7C-AE0D-4BEC-BCF2-13B2821D3CD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C95FB77-BDE5-4514-9278-7E068F81D0C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C95FB77-BDE5-4514-9278-7E068F81D0C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C95FB77-BDE5-4514-9278-7E068F81D0C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C95FB77-BDE5-4514-9278-7E068F81D0C2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31B1148D-158D-4C3C-B2B7-CC2952D203B9}
+	EndGlobalSection
+EndGlobal
